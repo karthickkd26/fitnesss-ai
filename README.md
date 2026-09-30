@@ -17,7 +17,7 @@ An AI-powered fitness planning web application built with Python and Streamlit.
 
 ## Live Demo
 
-https://fitness-ai-lmmnhog8dzn7xdlfaxvbbt.streamlit.app
+https://fitnesss-ai-93sr9jfyt595d6mw5jrvbf.streamlit.app/
 
 ## Project Files
 
